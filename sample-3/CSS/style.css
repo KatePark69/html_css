@@ -1,0 +1,9 @@
+ul.list1 {
+    list-style-type: disc;
+}
+ul.list2 {
+    list-style-type: circle;
+}
+ul.list3 {
+    list-style-type: square;
+}
