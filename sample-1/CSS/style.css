@@ -3,6 +3,7 @@ div {
 }
 #text1 {
     font-weight: bold;
+    padding-left: 40px;
 }
 .text2 {
     text-decoration: underline;
